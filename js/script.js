@@ -11,8 +11,8 @@
     } else {
         list.append(li);
       }
-    //2. Crosses an item from the list:
 
+    //2. Crosses an item from the list:
     function crossOut() {
         li.toggleClass("strike");
       }
